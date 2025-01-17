@@ -17,8 +17,8 @@ The goal of this project is to implement:
 ### Clone this Repository to your local
 If you have git, use this code:
 ```shell
-git clone 
-cd 
+git clone https://github.com/dolrie23/Test_AI_Eng.git
+cd Dicoding-Clustering-and-Classification-Final-Project
 ```
 
 ### Run this command on terminal
